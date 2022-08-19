@@ -1,0 +1,10 @@
+* {
+background-color: skyblue;
+}
+.text h1 {
+    color: black
+    text-align: center;
+}
+.text p {
+    font-size: 16px;
+}
